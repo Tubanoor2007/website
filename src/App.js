@@ -1,15 +1,19 @@
 
 import './App.css';
-import Home from './component/home';
+import Header from './component/layout/header';
+
+
 function App() {
   return (
   <>
   <div className="App">
-   <Home />
+
+    <Header />
+   
+  
       </div>
   </>
     
   );
 }
-
 export default App;
