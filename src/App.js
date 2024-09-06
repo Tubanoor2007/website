@@ -1,19 +1,16 @@
 
 import './App.css';
-import Header from './component/layout/header';
-import Home from './component/home';
 
+import Home from './component/home';
+import About from './component/about'
+import Product from './component/product';
 
 function App() {
   return (
   <>
-  <div className="App">
-    <Home />
-
-  
-   
-  
-      </div>
+ <Home/>
+ <About/>
+ <Product />
   </>
     
   );
