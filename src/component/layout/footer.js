@@ -1,6 +1,9 @@
 import React from 'react'
 import { Row, Col,Nav  } from 'react-bootstrap';
 
+
+
+
 const footer = () => {
   return (
     <>
@@ -30,8 +33,10 @@ const footer = () => {
 <Row className="text-center mt-3">
     <Col>
         <p>&copy; {new Date().getFullYear()} My Awesome App</p>
+       
     </Col>
 </Row>
+
 
 </footer>
     </>

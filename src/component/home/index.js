@@ -83,17 +83,17 @@ const index = () => {
 
       <Carousel>
         <Carousel.Item>
-          <img src={Im} height={500} width={1100}></img>
+          <img src={Im} height={500} width={1600}></img>
           <Carousel.Caption>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
-          <img src={In} height={500} width={1100}></img>
+          <img src={In} height={500} width={1600}></img>
           <Carousel.Caption>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
-          <img src={If} height={500} width={1100}></img>
+          <img src={If} height={500} width={1600}></img>
           <Carousel.Caption>
 
           </Carousel.Caption>

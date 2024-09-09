@@ -19,6 +19,9 @@ import EF from '../asset/EF.jfif';
 import FE from '../asset/FE.webp';
 
 
+
+
+
 function index() {
   return (
     <>
@@ -28,6 +31,10 @@ function index() {
         height={300}
         width={300}
         style={{padding:"2%"}}
+        Price={150}
+    
+
+    
     
       />
 
@@ -37,6 +44,7 @@ function index() {
         height={300}
         width={300}
         style={{padding:"2%"}}
+
       />
 
       <img
@@ -107,8 +115,6 @@ function index() {
         style={{ marginTop: "12%", display: "inline-block;",padding:"2%" }}
       />
 
-
-
       <img
         src={Cd}
         height={300}
@@ -144,16 +150,6 @@ function index() {
         width={300}
         style={{ marginTop: "12%", display: "inline-block;", padding:"2%"}}
       />
-
-
-
-     
-
-
-
-
-
-
 
       <Footer />
 
