@@ -17,6 +17,8 @@ import GH from '../asset/GH.jfif';
 import IJ from '../asset/IJ.jpg';
 import EF from '../asset/EF.jfif';
 import FE from '../asset/FE.webp';
+import Button from 'react-bootstrap/Button';
+import Card from 'react-bootstrap/Card';
 
 
 
@@ -26,130 +28,72 @@ function index() {
   return (
     <>
     <Header />
-    <img
-        src={Photo}
-        height={300}
-        width={300}
-        style={{padding:"2%"}}
-        Price={150}
     
+      <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src={Tr} />
+      <Card.Body>
+        <Card.Title>BRACELET</Card.Title>
+        <Card.Text>
+         PRICE:135
+        </Card.Text>
+        <Button variant="primary">Buy now</Button>
+      </Card.Body>
+    </Card>
+
+
+    <Card style={{ width: '18rem' }}>
+      <Card.Img variant="right" src={Tr} />
+      <Card.Body>
+        <Card.Title>BRACELET</Card.Title>
+        <Card.Text>
+         PRICE:135
+        </Card.Text>
+        <Button variant="primary">Buy now</Button>
+      </Card.Body>
+    </Card>
+
+    <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src={Tr} />
+      <Card.Body>
+        <Card.Title>BRACELET</Card.Title>
+        <Card.Text>
+         PRICE:135
+        </Card.Text>
+        <Button variant="primary">Buy now</Button>
+      </Card.Body>
+    </Card>
+
+    <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src={Tr} />
+      <Card.Body>
+        <Card.Title>BRACELET</Card.Title>
+        <Card.Text>
+         PRICE:135
+        </Card.Text>
+        <Button variant="primary">Buy now</Button>
+      </Card.Body>
+    </Card>
+
+    <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src={Tr} />
+      <Card.Body>
+        <Card.Title>BRACELET</Card.Title>
+        <Card.Text>
+         PRICE:135
+        </Card.Text>
+        <Button variant="primary">Buy now</Button>
+      </Card.Body>
+    </Card>
 
     
-    
-      />
+      <Card.Body>
+        <Card.Title>BREACLET</Card.Title>
+        <img src={IJ}/>
+        <Card.Text></Card.Text>
+        <Button variant="primary">Buy Now for </Button>
+      </Card.Body>
 
 
-      <img
-        src={Lib}
-        height={300}
-        width={300}
-        style={{padding:"2%"}}
-
-      />
-
-      <img
-        src={Logo}
-        height={300}
-        width={300}
-        style={{padding:"2%"}}
-      />
-
-
-
-      <img
-        src={Asset}
-        height={300}
-        width={300}
-        style={{padding:"2%"}}
-    
-      />
-       <img
-        src={ProfilePic}
-        height={300}
-        width={300}
-        style={{ marginTop: "12%", display: "inline-block;" ,padding:"2%"}}
-      />
-
-
-      <img
-        src={Im}
-        height={300}
-        width={300}
-        style={{ marginTop: "12%", display: "inline-block;",padding:"2%" }}
-      />
-
-      <img
-        src={In}
-        height={300}
-        width={300}
-        style={{ marginTop: "12%", display: "inline-block;",padding:"2%" }}
-      />
-
-
-
-      <img
-        src={If}
-        height={300}
-        width={300}
-        style={{ marginTop: "12%", display: "inline-block;",padding:"2%" }}
-      />
- <img
-        src={Tr}
-        height={300}
-        width={300}
-        style={{ marginTop: "12%", display: "inline-block;",padding:"2%" }}
-      />
-
-
-      <img
-        src={Ab}
-        height={300}
-        width={300}
-        style={{ marginTop: "12%", display: "inline-block;" ,padding:"2%"}}
-      />
-
-      <img
-        src={Ba}
-        height={300}
-        width={300}
-        style={{ marginTop: "12%", display: "inline-block;",padding:"2%" }}
-      />
-
-      <img
-        src={Cd}
-        height={300}
-        width={300}
-        style={{ marginTop: "12%", display: "inline-block;",padding:"2%" }}
-      />
-
-
-<img
-        src={EF}
-        height={300}
-        width={300}
-        style={{ marginTop: "12%", display: "inline-block;",padding:"2%" }}
-      />
- <img
-        src={GH}
-        height={300}
-        width={300}
-        style={{ marginTop: "12%", display: "inline-block;",padding:"2%" }}
-      />
-
-
-      <img
-        src={IJ}
-        height={300}
-        width={300}
-        style={{ marginTop: "12%", display: "inline-block;", padding:"2%"}}
-      />
-
-      <img
-        src={FE}
-        height={300}
-        width={300}
-        style={{ marginTop: "12%", display: "inline-block;", padding:"2%"}}
-      />
 
       <Footer />
 

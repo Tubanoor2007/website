@@ -73,8 +73,6 @@ const index = () => {
         width={300}
       />
 
-
-
       <img
         src={Asset}
         height={300}
@@ -113,14 +111,9 @@ const index = () => {
             src={Photo}
             height={500}
             width={500}
-
-
-
           />
         </Col>
       </Row>
-
-
     <Footer />
 
     </>
