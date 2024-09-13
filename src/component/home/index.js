@@ -12,6 +12,7 @@ import Im from '../asset/im.webp';
 import In from '../asset/in.avif';
 import If from '../asset/if.webp';
 import Footer from '../layout/footer';
+import Pic from '../asset/imag.jpg';
 
 const index = () => {
   return (
@@ -22,17 +23,23 @@ const index = () => {
         <Carousel.Item>
           <img src={Logo} height={500} width={1600}></img>
           <Carousel.Caption>
+          <h1 > style.collection</h1>
+
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img src={Asset} height={500} width={1600}></img>
           <Carousel.Caption>
+           <h4>style designs,</h4>
+           <h1>unatable price!</h1>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img src={If} height={500} width={1600}></img>
           <Carousel.Caption>
-
+          <h3>TOP TREANDS IN</h3>
+            <h1>SOLITAIRE RINGS</h1>
+            <h3>THIS YEAR </h3>
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
@@ -83,21 +90,24 @@ const index = () => {
         <Carousel.Item>
           <img src={Im} height={500} width={1600}></img>
           <Carousel.Caption>
-          </Carousel.Caption>
+       <h1>timeless earring collection</h1>
+        </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img src={In} height={500} width={1600}></img>
           <Carousel.Caption>
+          <h1>pre-festivel</h1>
+    <h1>sale</h1>
+    <h1>up-to 50% of</h1>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img src={If} height={500} width={1600}></img>
           <Carousel.Caption>
-
+       <h1>ring to the own moment</h1>
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
-
       <Row className="align-items-center">
         <Col md={6} className="text-left">
           <h1>BRACELET</h1>
