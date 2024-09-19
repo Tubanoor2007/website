@@ -1,5 +1,6 @@
 import React from 'react'
 import { Row, Col,Nav  } from 'react-bootstrap';
+import Pic from '../asset/imag.jpg';
 
 
 
@@ -11,8 +12,9 @@ const footer = () => {
 
 <Row>
     <Col md={4}>
-        <h5>About Us</h5>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum.</p>
+    <img src={Pic} style={{height:"150PX"}}></img>
+<h6>style collection</h6>
+
     </Col>
     <Col md={4}>
         <h5>Quick Links</h5>
@@ -26,7 +28,7 @@ const footer = () => {
     </Col>
     <Col md={4}>
         <h5>Contact</h5>
-        <p>123 Main St, Anytown, USA</p>
+        <p> phone: 9180854320</p>
         <p>Email: example@example.com</p>
     </Col>
 </Row>
@@ -36,7 +38,6 @@ const footer = () => {
        
     </Col>
 </Row>
-
 
 </footer>
     </>

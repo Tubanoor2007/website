@@ -23,7 +23,7 @@ function header() {
                             className="me-2"
                             aria-label="Search"
                         />
-                        <Button variant="outline-success">Search</Button>
+                        <Button variant="outline-primary">Search</Button>
                     </Form>
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="me-auto justify-content-end">

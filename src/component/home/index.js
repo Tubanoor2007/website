@@ -22,22 +22,22 @@ const index = () => {
       <Carousel>
         <Carousel.Item>
           <img src={Logo} height={500} width={1600}></img>
-          <Carousel.Caption>
-          <h1 > style.collection</h1>
+          <Carousel.Caption style={{ color: 'black' }}>
+            <h1 > style.collection</h1>
 
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img src={Asset} height={500} width={1600}></img>
-          <Carousel.Caption>
-           <h4>style designs,</h4>
-           <h1>unatable price!</h1>
+          <Carousel.Caption style={{ color: 'black' }}>
+            <h4>style designs,</h4>
+            <h1>unatable price!</h1>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img src={If} height={500} width={1600}></img>
-          <Carousel.Caption>
-          <h3>TOP TREANDS IN</h3>
+          <Carousel.Caption style={{ color: 'black' }}>
+            <h3>TOP TREANDS IN</h3>
             <h1>SOLITAIRE RINGS</h1>
             <h3>THIS YEAR </h3>
           </Carousel.Caption>
@@ -89,22 +89,22 @@ const index = () => {
       <Carousel>
         <Carousel.Item>
           <img src={Im} height={500} width={1600}></img>
-          <Carousel.Caption>
-       <h1>timeless earring collection</h1>
-        </Carousel.Caption>
+          <Carousel.Caption style={{ color: 'black' }}>
+            <h1>timeless earring collection</h1>
+          </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img src={In} height={500} width={1600}></img>
-          <Carousel.Caption>
-          <h1>pre-festivel</h1>
-    <h1>sale</h1>
-    <h1>up-to 50% of</h1>
+          <Carousel.Caption style={{ color: 'black' }}>
+            <h1>pre-festivel</h1>
+            <h1>sale</h1>
+            <h1>up-to 50% of</h1>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img src={If} height={500} width={1600}></img>
-          <Carousel.Caption>
-       <h1>ring to the own moment</h1>
+          <Carousel.Caption style={{ color: 'black' }}>
+            <h1>ring to the own moment</h1>
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
@@ -124,7 +124,7 @@ const index = () => {
           />
         </Col>
       </Row>
-    <Footer />
+      <Footer />
 
     </>
   )

@@ -41,7 +41,7 @@ function index() {
                             <Form.Control as="textarea" rows={4} placeholder="Your message" />
                         </Form.Group>
 
-                        <Button variant="primary" type="submit">
+                        <Button variant="success" type="submit">
                             submit
                         </Button>
                     </Form>
