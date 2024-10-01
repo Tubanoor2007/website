@@ -38,7 +38,7 @@ function index() {
             <Card.Body>
               <Card.Title>BRACELET</Card.Title>
               <Card.Text>
-                PRICE:135
+                PRICE:135 M.R.P
               </Card.Text>
               <Button variant="danger">Buy now</Button>
             </Card.Body>
@@ -50,7 +50,7 @@ function index() {
             <Card.Body>
               <Card.Title>LOCKET</Card.Title>
               <Card.Text>
-                PRICE:200
+                PRICE:200 M.R.P
               </Card.Text>
               <Button variant="danger">Buy now</Button>
             </Card.Body>
@@ -62,7 +62,7 @@ function index() {
             <Card.Body>
               <Card.Title>NACKLACE</Card.Title>
               <Card.Text>
-                PRICE:1000
+                PRICE:1000 M.R.P
               </Card.Text>
               <Button variant="danger">Buy now</Button>
             </Card.Body>
@@ -74,7 +74,7 @@ function index() {
             <Card.Body>
               <Card.Title>EARRING</Card.Title>
               <Card.Text>
-                PRICE:200
+                PRICE:200 M.R.P
               </Card.Text>
               <Button variant="danger">Buy now</Button>
             </Card.Body>
@@ -86,7 +86,7 @@ function index() {
             <Card.Body>
               <Card.Title>BRACELET</Card.Title>
               <Card.Text>
-                PRICE:300
+                PRICE:300 M.R.P
               </Card.Text>
               <Button variant="danger">Buy now</Button>
             </Card.Body>
@@ -98,7 +98,7 @@ function index() {
             <Card.Body>
               <Card.Title>EARRING</Card.Title>
               <Card.Text>
-                PRICE:250
+                PRICE:250 M.R.P
               </Card.Text>
               <Button variant="danger">Buy now</Button>
             </Card.Body>
@@ -110,7 +110,7 @@ function index() {
             <Card.Body>
               <Card.Title>LOCKET</Card.Title>
               <Card.Text>
-                PRICE:400
+                PRICE:400 M.R.P
               </Card.Text>
               <Button variant="danger">Buy now</Button>
             </Card.Body>
@@ -122,7 +122,7 @@ function index() {
             <Card.Body>
               <Card.Title>RING </Card.Title>
               <Card.Text>
-                PRICE:200
+                PRICE:200 M.R.P
               </Card.Text>
               <Button variant="danger">Buy now</Button>
             </Card.Body>
@@ -134,7 +134,7 @@ function index() {
             <Card.Body>
               <Card.Title>LOCKET</Card.Title>
               <Card.Text>
-                PRICE:500
+                PRICE:500 M.R.P
               </Card.Text>
               <Button variant="danger">Buy now</Button>
             </Card.Body>
@@ -146,7 +146,7 @@ function index() {
             <Card.Body>
               <Card.Title>LOCKET</Card.Title>
               <Card.Text>
-                PRICE:350
+                PRICE:350 M.R.P
               </Card.Text>
               <Button variant="danger">Buy now</Button>
             </Card.Body>
@@ -158,7 +158,7 @@ function index() {
             <Card.Body>
               <Card.Title>RING</Card.Title>
               <Card.Text>
-                PRICE:300
+                PRICE:300 M.R.P
               </Card.Text>
               <Button variant="danger">Buy now</Button>
             </Card.Body>
@@ -170,7 +170,7 @@ function index() {
             <Card.Body>
               <Card.Title>BRACELET</Card.Title>
               <Card.Text>
-                PRICE:450
+                PRICE:450 M.R.P
               </Card.Text>
               <Button variant="danger">Buy now</Button>
             </Card.Body>
@@ -182,7 +182,7 @@ function index() {
             <Card.Body>
               <Card.Title>EARRING</Card.Title>
               <Card.Text>
-                PRICE:600
+                PRICE:600 M.R.P
               </Card.Text>
               <Button variant="danger">Buy now</Button>
             </Card.Body>
@@ -194,7 +194,7 @@ function index() {
             <Card.Body>
               <Card.Title>NACKLACE</Card.Title>
               <Card.Text>
-                PRICE:1500
+                PRICE:1500 M.R.P
               </Card.Text>
               <Button variant="danger">Buy now</Button>
             </Card.Body>
@@ -206,7 +206,7 @@ function index() {
             <Card.Body>
               <Card.Title>EARRING</Card.Title>
               <Card.Text>
-                PRICE:500
+                PRICE:500 M.R.P
               </Card.Text>
               <Button variant="danger">Buy now</Button>
             </Card.Body>
@@ -218,7 +218,7 @@ function index() {
             <Card.Body>
               <Card.Title>EARRING</Card.Title>
               <Card.Text>
-                PRICE:700
+                PRICE:700 M.R.P
               </Card.Text>
               <Button variant="danger">Buy now</Button>
             </Card.Body>

@@ -14,11 +14,14 @@ import If from '../asset/if.webp';
 import Footer from '../layout/footer';
 import Pic from '../asset/imag.jpg';
 
+
 const index = () => {
+  
   return (
     <>
       < Header />
-
+      
+      
       <Carousel>
         <Carousel.Item>
           <img src={Logo} height={500} width={1600}></img>
